@@ -1,0 +1,3 @@
+cargo run --package labs --verbose --bin mychy
+cargo run --package labs --verbose --bin mymain
+cargo run --package labs --verbose --bin mycalc

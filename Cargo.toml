@@ -8,6 +8,7 @@ members = [
   "parser-gen",
   "parser-macros",
   "tests",
+  "labs",
 ]
 
 [profile.dev.overrides."*"]
